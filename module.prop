@@ -1,0 +1,6 @@
+id=candyos_bootanimation
+name=CandyOS Boot Animation
+version=1.0.0
+versionCode=1
+author=Vital Candy
+description=CandyOS boot animation for Magisk
